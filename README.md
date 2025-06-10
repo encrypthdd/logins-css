@@ -34,7 +34,7 @@ https://demo.carlospcssoluciones.com.ve/dev.cflores/logins/login-01/
 ```
 ### ❤ <span>Login 02</span>
 
-![Login 02](login-02/assets/Imagen.png)
+![Login 02](login-02/assets/Image.png)
 
 #### 📌 Login 02 DEMO: 
 ```
