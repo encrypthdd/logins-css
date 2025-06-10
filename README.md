@@ -20,13 +20,13 @@ Si estás interesado en adquirir el sistema o tienes alguna pregunta, no dudes e
 - **Email**: cflores@carlospcssoluciones.com.ve.com
 - **Usuario Instagram**: @dev.cflores
 - **Usuario Threads**: @dev.cflores
-- **Github**: https://github.com/encrypthdd/logins.git
+- **Github**: https://github.com/encrypthdd/logins-css.git
 
 # 🛠️ Panel de Control
 
 ### ❤ <span>Login 01</span>
 
-![Login 01](iloveyou/assets/Image.png)
+![Login 01](login-01/assets/Image.png)
 
 #### 📌 Login 01 DEMO: 
 ```
@@ -34,7 +34,7 @@ https://demo.carlospcssoluciones.com.ve/dev.cflores/logins/login-01/
 ```
 ### ❤ <span>Login 02</span>
 
-![Login 02](birthday-cake/assets/Imagen.png)
+![Login 02](login-02/assets/Imagen.png)
 
 #### 📌 Login 02 DEMO: 
 ```
